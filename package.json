@@ -1,0 +1,23 @@
+{
+  "name": "tela-login",
+  "version": "1.0.0",
+  "description": "Tela de login desenvolvida com HTML e CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xFlax00/tela-login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xFlax00/tela-login/issues"
+  },
+  "homepage": "https://github.com/xFlax00/tela-login#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

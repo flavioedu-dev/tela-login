@@ -56,10 +56,10 @@ input{
 }
 
 #user{
-    background-image: url(./img/user.png);
+    background-image: url(../img/user.png);
 }
 #pass{
-    background-image: url(./img/pass.png);
+    background-image: url(../img/pass.png);
     
 }
 
