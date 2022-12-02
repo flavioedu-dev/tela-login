@@ -1,2 +1,2 @@
 # tela-login
-Tela de login desenvolvido com HTML e CSS.
+Tela de login desenvolvida com HTML e CSS.
