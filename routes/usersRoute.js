@@ -5,7 +5,11 @@ const posts = {
     name: 'Flávio',
 }
 
-router.get('/users', (req, res) => {
+router.get('/', (req, res) => {
+    res.send("Users!")
+})
+
+router.get('/cadastrados', (req, res) => {
     res.send(posts)
 })
 
