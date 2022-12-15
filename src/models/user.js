@@ -4,7 +4,7 @@ const user = (sequelize, DataTypes) => {
             type: DataTypes.STRING
         },
         email: {
-            type: DataTypes.STRING
+            type: DataTypes.STRING,
         },
         senha:{
             type: DataTypes.STRING
